@@ -1,5 +1,5 @@
  body{
-     background-color: rgba(7, 62, 182, 0.705);
+     background-color: rgba(19, 35, 68, 0.705);
  }
 
  h1{
@@ -7,6 +7,8 @@
      text-align: center;
      font-size:  100px;
      font-family: Georgia, 'Times New Roman', Times, serif;
+     border-bottom: 5px;
+
  }
 
  h2{
@@ -26,7 +28,7 @@
  }
 
  p{
-     color:indianred;
+     color:rgb(182, 209, 218);
      text-align: left;
      font-size:  25px;
      margin-left: 100px;
